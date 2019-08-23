@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: WTX_JMS_Sample
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pnadipalli
+Implementation-Vendor-Id: com.miracle
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/WTX_JMS_Samp
+ le/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

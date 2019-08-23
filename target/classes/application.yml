@@ -1,0 +1,10 @@
+servers:
+  mq:
+    host: localhost
+    port: 1414
+    queue-manager: WTXQMGR
+    channel: SYSTEM.WTX.CHANNEL
+    queue: WTX.MAP.IN
+    username: MQUser
+    password: Miracle@123
+    timeout: 2000

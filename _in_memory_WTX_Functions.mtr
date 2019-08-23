@@ -1,0 +1,439 @@
+
+(Level 1: Offset 0, len 16, comp 1 of 4, #1, DI 000000000001:)
+Data at offset 0 ('phanidhar swarna') was found to be of TYPE
+   X'0003' (Element1 Root).
+
+(Level 1: Offset 17, len 4, comp 2 of 4, #1, DI 000000000002:)
+Data at offset 17 ('2332') was found to be of TYPE
+   X'0004' (Element2 Root).
+
+(Level 1: Offset 22, len 3, comp 3 of 4, #1, DI 000000000003:)
+Data at offset 22 ('-23') was found to be of TYPE
+   X'0005' (Element3 Root).
+
+(Level 1: Offset 26, len 16, comp 4 of 4, #1, DI 000000000004:)
+Data at offset 26 ('2015102918:19:00') was found to be of TYPE
+   X'0006' (Element4_date Root).
+
+(Level 0: Offset 0, len 42, comp 1 of 0, #1, DI 000000000005:)
+Data at offset 0 ('phanidhar swarna...') was found to be of TYPE
+   X'0002' (GlobalGroup Root).
+
+   INPUT 1 was valid.
+
+   End of Validation messages for INPUT CARD 1.
+
+21:39:17.462  Aug 06 2019
+(Offset 0: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0008' (GlobalGroup Root).
+
+21:39:17.462  Aug 06 2019
+(Offset 0: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.462  Aug 06 2019
+(Offset 4: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('2332')
+
+21:39:17.462  Aug 06 2019
+(Offset 4: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.462  Aug 06 2019
+(Offset 8: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('ph')
+
+21:39:17.463  Aug 06 2019
+(Offset 8: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.463  Aug 06 2019
+(Offset 12: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('na')
+
+21:39:17.463  Aug 06 2019
+(Offset 12: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.463  Aug 06 2019
+(Offset 17: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('han')
+
+21:39:17.463  Aug 06 2019
+(Offset 17: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.463  Aug 06 2019
+(Offset 28: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('phanidhar')
+
+21:39:17.463  Aug 06 2019
+(Offset 28: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.463  Aug 06 2019
+(Offset 46: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('phanidhar swarna')
+
+21:39:17.463  Aug 06 2019
+(Offset 46: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.463  Aug 06 2019
+(Offset 63: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('phanidhar swarn')
+
+21:39:17.463  Aug 06 2019
+(Offset 63: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.463  Aug 06 2019
+(Offset 81: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('PHANIDHAR SWARNA')
+
+21:39:17.463  Aug 06 2019
+(Offset 81: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.463  Aug 06 2019
+(Offset 99: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('phanidhar swarna')
+
+21:39:17.463  Aug 06 2019
+(Offset 99: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.463  Aug 06 2019
+(Offset 117: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('phanidhar@swarna')
+
+21:39:17.463  Aug 06 2019
+(Offset 117: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.467  Aug 06 2019
+(Offset 122: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('232')
+
+21:39:17.467  Aug 06 2019
+(Offset 122: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.468  Aug 06 2019
+(Offset 144: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('phanidhar swarna...')
+
+21:39:17.468  Aug 06 2019
+(Offset 144: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.468  Aug 06 2019
+(Offset 162: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('Phanidhar Swarna')
+
+21:39:17.468  Aug 06 2019
+(Offset 162: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.468  Aug 06 2019
+(Offset 166: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('11')
+
+21:39:17.468  Aug 06 2019
+(Offset 166: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.468  Aug 06 2019
+(Offset 187: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('%%%phanidhar swa...')
+
+21:39:17.468  Aug 06 2019
+(Offset 187: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.468  Aug 06 2019
+(Offset 191: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('16')
+
+21:39:17.468  Aug 06 2019
+(Offset 191: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.468  Aug 06 2019
+(Offset 213: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('phanidhar swarna...')
+
+21:39:17.468  Aug 06 2019
+(Offset 213: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.468  Aug 06 2019
+(Offset 217: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('11')
+
+21:39:17.468  Aug 06 2019
+(Offset 217: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.468  Aug 06 2019
+(Offset 234: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('phanidharswarna')
+
+21:39:17.468  Aug 06 2019
+(Offset 234: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.468  Aug 06 2019
+(Offset 237: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('4')
+
+21:39:17.468  Aug 06 2019
+(Offset 237: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.468  Aug 06 2019
+(Offset 241: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('23')
+
+21:39:17.468  Aug 06 2019
+(Offset 241: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.468  Aug 06 2019
+(Offset 247: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('1.56')
+
+21:39:17.468  Aug 06 2019
+(Offset 247: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.468  Aug 06 2019
+(Offset 254: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('23.56')
+
+21:39:17.469  Aug 06 2019
+(Offset 254: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.469  Aug 06 2019
+(Offset 260: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('2332')
+
+21:39:17.469  Aug 06 2019
+(Offset 260: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.469  Aug 06 2019
+(Offset 266: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('TRUE')
+
+21:39:17.469  Aug 06 2019
+(Offset 266: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.469  Aug 06 2019
+(Offset 269: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('h')
+
+21:39:17.469  Aug 06 2019
+(Offset 269: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.471  Aug 06 2019
+(Offset 289: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('48.2907858705985...')
+
+21:39:17.471  Aug 06 2019
+(Offset 289: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.471  Aug 06 2019
+(Offset 296: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('false')
+
+21:39:17.472  Aug 06 2019
+(Offset 296: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 303: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('false')
+
+21:39:17.472  Aug 06 2019
+(Offset 303: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 310: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('FALSE')
+
+21:39:17.472  Aug 06 2019
+(Offset 310: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 313: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('<QUOTE>')
+
+21:39:17.472  Aug 06 2019
+(Offset 313: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 322: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('PRESENT')
+
+21:39:17.472  Aug 06 2019
+(Offset 322: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 325: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('1')
+
+21:39:17.472  Aug 06 2019
+(Offset 325: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 343: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('phanidhar swarna')
+
+21:39:17.472  Aug 06 2019
+(Offset 343: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 361: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('2015110818:19:00')
+
+21:39:17.472  Aug 06 2019
+(Offset 361: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 379: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('2015102920:19:00')
+
+21:39:17.472  Aug 06 2019
+(Offset 379: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 397: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('2015102918:22:00')
+
+21:39:17.472  Aug 06 2019
+(Offset 397: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 413: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('20190806213917')
+
+21:39:17.472  Aug 06 2019
+(Offset 413: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 423: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('08/06/19')
+
+21:39:17.472  Aug 06 2019
+(Offset 423: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 433: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('21:39:17')
+
+21:39:17.472  Aug 06 2019
+(Offset 433: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 451: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('2015102918:19:00')
+
+21:39:17.472  Aug 06 2019
+(Offset 451: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 454: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('0')
+
+21:39:17.472  Aug 06 2019
+(Offset 454: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 472: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('2015102918:19:00')
+
+21:39:17.472  Aug 06 2019
+(Offset 472: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 476: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('17')
+
+21:39:17.472  Aug 06 2019
+(Offset 476: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.472  Aug 06 2019
+(Offset 480: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('16')
+
+21:39:17.473  Aug 06 2019
+(Offset 480: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.473  Aug 06 2019
+(Offset 487: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('FALSE')
+
+21:39:17.473  Aug 06 2019
+(Offset 487: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.473  Aug 06 2019
+(Offset 487: Map Number 0 (WTX_Functions), DI 000000000000:)
+The rule for TYPE X'0009' (Element Root) evaluated to NONE.
+
+21:39:17.473  Aug 06 2019
+(Offset 487: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.473  Aug 06 2019
+(Offset 496: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('PRESENT')
+
+21:39:17.473  Aug 06 2019
+(Offset 496: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.473  Aug 06 2019
+(Offset 505: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('PRESENT')
+
+21:39:17.473  Aug 06 2019
+(Offset 505: Map Number 0 (WTX_Functions), DI 000000000000:)
+Building TYPE X'0009' (Element Root).
+
+21:39:17.473  Aug 06 2019
+(Offset 513: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0009' (Element Root) has been built. ('ABSENT')
+
+21:39:17.473  Aug 06 2019
+(Offset 513: Map Number 0 (WTX_Functions), DI 000000000000:)
+TYPE X'0008' (GlobalGroup Root) has been built.
+
+   OUTPUT 1 was built successfully.
+
+   End of Mapping messages for OUTPUT CARD 1.
+
+
+   End of Execution messages.
